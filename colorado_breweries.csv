@@ -1,0 +1,342 @@
+,lat,lng,name,open_date
+0,39.7614387,-104.9838836,14er Brewing Company,2018-03-01
+1,40.017013,-105.280475,Boulder Beer on Walnut,2017-07-22
+2,39.4003186,-107.2107514,Batch at Roaring Fork Beer Company,2017-06-16
+3,39.9863953,-104.8227099,Big Choice Brewing,2012-05-04
+4,40.5311625,-105.0801891,Purpose Brewing and Cellars,2017-08-04
+5,39.6019724,-104.8408202,Lost Highway Brewing Company,2017-06-03
+6,40.0034682,-105.1016168,UTurn BBQ,2017-01-30
+7,39.9618725,-105.5090982,James Peak Brewery &#038; Smokehouse,2016-11-18
+8,39.6605409,-105.3521391,Evergreen Tap House &#038; Brewery,
+9,39.7057909,-105.6973582,Guanella Pass Brewing Company,2017-05-26
+10,40.6249386,-103.2099116,Parts and Labor Brewing,2016-12-23
+11,40.0130762,-105.131537,Endo Brewing Company,2017-08-26
+12,39.6741122,-104.7938078,Peak to Peak Tap &#038; Brew,2017-05-20
+13,40.522606,-105.0112497,DC Oakes Brewhouse and Eatery,2017-06-20
+14,40.1612268,-105.1068743,Bootstrap Brewing (Longmont),2017-03-09
+15,39.5547211,-104.87889,Grist Brewing Company Lab (Lonetree),2017-05-27
+16,40.437857,-104.9682009,Mash Lab Brewing,2016-12-15
+17,39.3858044,-107.0820913,Capitol Creek Brewery,2017-05-22
+18,39.8015147,-105.0809653,Denver Beer Company (Arvada),2017-06-17
+19,37.4682775,-105.8666844,Square Peg Brewerks,2017-06-01
+20,38.8714762,-104.82243,Goat Patch Brewing Company,2017-07-31
+21,39.7291768,-104.9992469,The Intrepid Sojourner Beer Project,2017-05-20
+22,40.3368404,-104.9059617,Veteran Brothers Brewing Company,2017-05-26
+23,39.589058,-106.09902,Outer Range Brewing Company,2016-12-26
+24,37.349996,-108.585629,WildEdge Brewing Collective,2017-04-11
+25,39.7584077,-105.0152333,Zuni Street Brewing Company,2017-03-08
+26,39.7917069,-105.0676402,SomePlace Else Brewery,2016-09-22
+27,40.062723,-105.2842286,Cellar West Artisan Ales,2016-12-17
+28,40.0260311,-105.2428707,Kettle and Spoke Brewery,2016-12-02
+29,40.085256,-105.94152,Never Summer Brewing Company,2016-04-13
+30,39.90846,-105.075033,Rails End Beer Company,2016-08-12
+31,37.9944916,-105.699994,Crestone Brewing Company,2016-06-25
+32,38.5246809,-106.0063026,Soulcraft Brewing,2016-11-19
+33,39.7237723,-104.9869945,Banded Oak Brewing Company,2016-06-04
+34,39.75939,-104.9856446,10 Barrel Brewing Company,2016-10-17
+35,40.0201617,-105.2181712,White Labs Boulder Tasting Room,
+36,40.5392903,-105.0752914,Gilded Goat Brewing,2017-02-03
+37,40.4865952,-106.8377014,Mountain Tap Brewery,2016-07-07
+38,39.7530479,-104.8773876,Cheluna Brewing Company,2016-12-05
+39,39.406618,-105.477033,Mad Jack&#8217;s Mountain Brewery,2016-06-25
+40,39.7236763,-105.0005935,Crazy Mountain Denver Tap Room,2016-09-24
+41,40.5728462,-105.1153976,McClellan&#8217;s Brewing Company,
+42,39.750727,-104.984512,Woods Boss Brewing,2017-08-11
+43,39.772367,-104.8437555,Brewability Lab,2016-10-22
+44,40.5750924,-105.0966413,Three Four Beer Company,
+45,39.3749416,-104.8583813,Castle Rock Beer Company,
+46,38.3208943,-104.7038646,PDub Brewing Company,2016-06-23
+47,39.9131169,-104.9562554,Mother Tucker Brewery,2017-05-26
+48,40.5545197,-105.1166484,Intersect Brewing,2016-08-26
+49,38.8287449,-104.820393,Local Relic,
+50,39.77959,-105.1859659,New Terrain Brewing Company,2016-10-01
+51,39.741773,-105.51549,Westbound &#038; Down Brewing Company,
+52,39.6699447,-105.1136839,Green Mountain Beer Company,2016-11-19
+53,39.6935383,-104.9873923,Black Project Spontaneous &#038; Wild Ales,
+54,38.8330973,-104.8374276,Cerberus Brewing Company,2016-09-12
+55,40.0260311,-105.2428707,Vision Quest Brewing Company,
+56,38.478859,-107.876981,Colorado Boy Pizzeria &#038; Brewery,
+57,38.544747,-106.927311,High Alpine Brewing Company,2015-08-01
+58,38.9242564,-104.7927476,Whistle Pig Brewing Company,2016-02-26
+59,38.3886899,-105.118371,Florence Brewing Company,2016-05-14
+60,39.817894,-105.007405,Bruz Beers,2016-06-10
+61,39.7996425,-105.0823726,New Image Brewing Company,2016-03-05
+62,40.3718277,-105.5229489,Rock Cut Brewing Company,
+63,39.7799911,-105.2331305,Holidaily Brewing Company,2016-02-04
+64,39.5848213,-104.884956,Resolute Brewing Company,2016-08-19
+65,38.889874,-104.71389,Peaks N Pines Brewing Company,2015-11-20
+66,39.6997804,-105.3325658,El Rancho Brewing Company,2015-11-24
+67,40.495734,-107.257489,Yampa Valley Brewing Company,
+68,39.6491165,-105.0040257,Dead Hippie Brewing,
+69,39.3807478,-104.8660237,105 West Brewing Company,
+70,38.9005,-107.926,4B&#8217;s Brewery,
+71,39.638405,-105.3137531,Lariat Lodge Brewing,2015-11-01
+72,39.7739362,-104.977676,Blue Moon Brewing Company RiNo,2016-09-16
+73,39.747316,-105.024345,Little Machine Beer,
+74,40.1580601,-105.1074119,Shoes &#038; Brews,
+75,40.5620332,-105.0379971,Jessup Farm Barrel House,
+76,39.6205563,-106.4696145,Vail Brewing Company,
+77,39.5943276,-105.0226409,Breckenridge Brewery,
+78,39.5935248,-104.927406,Halfpenny Brewing Company,2016-02-24
+79,39.743155,-104.9681142,Deep Draft Brewing Company,2015-07-15
+80,39.7404587,-105.0709687,WestFax Brewing Company,2016-03-19
+81,40.7048527,-105.0099015,Old Colorado Brewing Company,2016-02-14
+82,39.734532,-104.9873991,CO-Brew,
+83,40.5505452,-105.0789922,Maxline Brewing,2016-06-18
+84,39.7698921,-104.9797464,Great Divide Brewing: Barrel Bar,
+85,37.3476582,-108.2864761,Mancos Brewing Company,
+86,38.9698209,-104.6063755,JAKs Brewing Company,2017-03-04
+87,38.8796603,-104.7558463,Cogstone Brewing Company,2016-02-09
+88,37.225009,-107.599083,Bottom Shelf Brewery,
+89,39.7510677,-105.0203594,Briar Common Brewery + Eatery,2016-10-06
+90,38.877989,-104.8126887,Storybook Brewing,
+91,39.2203091,-105.9926097,South Park Brewing,
+92,39.6299524,-106.0673115,The Bakers&#8217; Brewery,2015-03-06
+93,39.24942,-106.291502,Periodic Brewing,
+94,37.8119457,-107.6641034,Golden Block Brewery,2015-07-01
+95,37.28001,-107.876761,Animas Brewing Company,
+96,40.3690055,-105.5046882,Lumpy Ridge Brewing Company,
+97,40.5660666,-105.0567044,Rally King Brewing,2015-06-28
+98,40.1740432,-105.1308936,SKEYE Brewing,
+99,39.7551428,-104.976978,Spangalang Brewery,2015-04-07
+100,40.4251802,-104.6915895,Brix Taphouse &#038; Brewery,
+101,40.1624063,-105.0998902,Wibby Brewing,2015-09-06
+102,39.9883409,-104.8214146,Something Brewery,
+103,38.8571353,-104.9156724,Manitou Brewing Company,
+104,38.8195711,-104.8236099,Gold Camp Brewing Company,
+105,39.918024,-105.7840122,Hideaway Park Brewery,2014-07-01
+106,38.2625102,-104.6100307,Walter Brewing Company,
+107,38.8280157,-104.8226281,Iron Bird Brewing Company,
+108,39.99934,-105.1035573,Liquid Mechanics Brewing Company,2014-08-11
+109,40.078317,-105.18934,Gunbarrel Brewing Company,2017-06-14
+110,40.0740121,-105.2028735,Finkel &#038; Garf Brewing Company,
+111,39.6086571,-105.0370537,Locavore Beer Works,
+112,39.7005839,-104.7907323,Launch Pad Brewery,
+113,39.7789705,-105.0436202,Call to Arms Brewing Company,
+114,40.5899336,-105.0584095,Snowbank Brewing,
+115,40.4280886,-104.6905949,WeldWerks Brewing Company,2015-02-20
+116,39.7628161,-104.9840373,Bierstadt Lagerhaus,2016-08-13
+117,40.0768287,-105.192968,Vindication Brewing Company,
+118,40.1032097,-105.1728902,Powder Keg Brewing Company,2014-07-11
+119,40.1599031,-105.1012289,300 Suns Brewing,
+120,39.6352322,-104.7591366,Two22 Brew,
+121,40.0177455,-105.2578236,BJ&#8217;s Restaurant &#038; Brewery Boulder,
+122,39.8293573,-104.9771125,Creede Brewing Company,
+123,39.9239215,-105.7863258,The Peak Bistro &#038; Brewery,
+124,40.4971608,-106.8530259,Storm Peak Brewing Company,
+125,37.2179725,-104.4904,Dodgeton Creek Brewing Company,
+126,40.5107147,-106.858204,Butcherknife Brewing Company,2014-07-05
+127,39.514358,-106.053512,Broken Compass Brewery,
+128,39.5157423,-107.3195065,Casey Brewing &#038; Blending,
+129,38.847991,-104.870091,Fossil Craft Beer Company,2014-10-24
+130,38.8259689,-104.8236301,Fieldhouse Brewing Company,
+131,38.2653658,-104.6096525,Brues Alehouse Brewing Company,2015-12-21
+132,40.5227531,-105.07836,Zwei Brewing,
+133,40.5896804,-105.045597,Horse and Dragon Brewing Company,
+134,40.1544294,-105.1092498,Großen Bart Brewery,
+135,40.4081891,-105.0754341,Big Thompson Brewery,
+136,40.304413,-105.084858,Berthoud Brewing Company,
+137,40.1346163,-105.1033394,Open Door Brewing Company,2017-03-24
+138,40.0502697,-105.0474519,Echo Brewing Cask and Barrel,
+139,39.9133224,-105.0558566,Wonderland Brewing Company,
+140,39.5648875,-104.9059874,3 Freaks Brewery,
+141,39.740083,-105.035111,Seedstock Brewery,2016-04-01
+142,39.7615073,-104.9810734,Ratio Beerworks,2015-02-14
+143,39.9207914,-105.1012776,Nighthawk Brewery,2015-01-23
+144,39.7712346,-104.9797258,Mockery Brewing,
+145,39.7293107,-104.9857529,Lowdown Brewery + Kitchen,
+146,39.5403122,-105.0399525,Living The Dream Brewing Company,
+147,39.6578219,-105.0834708,LandLocked Ales,2017-06-24
+148,39.7531785,-105.0535192,Joyride Brewing Company,
+149,39.6813501,-105.1177115,Great Frontier Brewing Company,
+150,39.6854652,-104.9874679,Grandma&#8217;s House,
+151,39.7995091,-105.0824732,Grand Lake Brewing Tavern,
+152,39.7868956,-105.0343115,Goldspot Brewing Company,
+153,39.7403815,-104.9057314,Fiction Beer Company,
+154,39.6787522,-104.9670465,FERMÆNTRA,
+155,39.7702189,-105.002068,Factotum Brewhouse,
+156,39.6825659,-104.9807821,Platt Park Brewing Company,
+157,39.7770477,-105.0007476,Denver Beer Company Canworks,
+158,39.6797757,-104.9907692,Declaration Brewing,
+159,39.6757288,-104.8984963,Comrade Brewing Company,2014-04-26
+160,39.748689,-104.838388,Ursula Brewery,2014-03-01
+161,39.6995433,-105.0012001,Chain Reaction Brewing,
+162,39.7397522,-104.9450804,Cerebral Brewing,2015-11-20
+163,39.6527894,-105.0107761,Boggy Draw Brewery,2015-01-01
+164,39.5670743,-104.9400813,Blue Spruce Brewing Company,
+165,39.7647759,-104.9802181,Beryl&#8217;s Beer Company,2014-06-28
+166,39.5224078,-104.7752474,Barnett &#038; Son Brewing Company,
+167,39.7214312,-104.9869969,Baere Brewing Company,2014-07-05
+168,39.740326,-104.974929,Alpine Dog Brewing Company,
+169,39.9065692,-105.0984188,4 Noses Brewing Company,
+170,39.5689667,-104.9896149,38 State Brewing Company,
+171,39.8022809,-105.0841393,Spice Trade Brewing Company,2008-01-01
+172,39.7533834,-104.9985339,Wynkoop Brewing Company,
+173,39.7207655,-105.0174344,Wit&#8217;s End Brewing Company,2011-09-26
+174,40.4315726,-104.6883196,Wiley Roots Brewing Company,2013-07-20
+175,40.0163007,-105.2266636,Wild Woods Brewery,
+176,39.8926103,-105.0820125,Westminster Brewing Company,
+177,40.0180463,-105.2807106,West Flanders Brewing Company,
+178,39.7434716,-104.9619928,Vine Street Pub &#038; Brewery,
+179,39.9598444,-105.5094579,Very Nice Brewing Company,
+180,40.396642,-105.0752187,Verboten Brewing,2013-01-11
+181,38.9944722,-105.0513552,Ute Pass Brewing Company,2013-04-06
+182,40.0201617,-105.2181712,Upslope Brewing Company Flatiron Park,
+183,40.0628561,-105.2791958,Upslope Brewing Company Lee Hill,
+184,38.4788228,-107.8800108,Two Rascals Brewing,
+185,40.0207662,-105.2510729,Twisted Pine Brewing Company,
+186,39.9782702,-105.1317415,12Degree Brewing,2013-06-21
+187,39.719947,-104.9879957,TRVE Brewing Company,
+188,38.89745,-104.8547335,Trinity Brewing Company,
+189,39.7416177,-105.5176646,Tommyknocker Brewery &#038; Pub,
+190,39.7450774,-105.005976,Tivoli Brewing Company,
+191,37.678688,-106.35647,Three Barrel Brewing Company,2012-08-01
+192,39.9945627,-105.0913428,The Post Brewing Company,2014-01-09
+193,37.946497,-107.877252,Telluride Brewing Company,
+194,39.1591641,-108.7326781,Suds Brothers Brewery II,2012-02-01
+195,39.7373529,-105.0152385,Strange Craft Beer Company,1970-01-01
+196,37.2723125,-107.8799772,Steamworks Brewing Company,
+197,39.7695837,-104.9059797,Station 26 Brewing Company,
+198,39.9843178,-105.2493687,Southern Sun Pub &#038; Brewery,
+199,37.935736,-107.811659,Smugglers Brewpub,
+200,38.8065616,-104.8385354,Smiling Toad Brewery,
+201,37.2387785,-107.8761747,Ska Brewing Company,
+202,40.0187151,-105.2789573,Shine Brewing Company,
+203,38.2695003,-104.6077592,Shamrock Brewing Company,
+204,40.02208,-105.2480486,Sanitas Brewing Company,
+205,37.4683105,-105.8668514,San Luis Valley Brewing Company,
+206,39.6130462,-105.0212067,Saint Patrick&#8217;s Brewing Company,
+207,39.4091075,-104.8698478,Rockyard American Grill &#038; Brewing Company,
+208,38.8412557,-104.7164377,Rocky Mountain Brewery,
+209,39.0672698,-108.565811,Rockslide Brewery &#038; Restaurant,
+210,39.9626423,-104.9933193,Rock Bottom Brewery Westminster Orchard Town Center,
+211,39.889337,-105.0693412,Rock Bottom Brewery Westminster Promenade,
+212,40.4181465,-104.9903942,Rock Bottom Brewery Loveland,
+213,39.566244,-104.8736817,Rock Bottom Brewery South Denver,
+214,39.7480208,-104.9946594,Rock Bottom Brewery Denver,
+215,38.8811624,-104.7181744,Rock Bottom Brewery Colorado Springs,
+216,39.8065586,-104.9790984,River North Brewery,2016-04-02
+217,37.2689076,-107.0073483,Riff Raff Brewing Company,
+218,38.8695152,-107.5975074,Revolution Brewing,2008-01-01
+219,39.730734,-104.9991743,Renegade Brewing Company,
+220,38.898059,-104.8417313,Red Leg Brewing Company,2013-07-04
+221,40.1686074,-105.1021073,Pumphouse Brewery,
+222,39.6280462,-106.0464403,Pug Ryan&#8217;s Brewery,
+223,39.761403,-105.0067221,Prost Brewing Company,
+224,40.5530517,-105.0973809,Pitchers Brewery,
+225,39.7369494,-104.9907965,Pints Pub Brewery &#038; Freehouse,
+226,39.0950765,-104.858993,Pikes Peak Brewing Company,
+227,38.834232,-104.8249476,Phantom Canyon Brewing Company,
+228,38.943996,-105.155199,Paradox Beer Company,2016-05-29
+229,39.111116,-108.354299,Palisade Brewing Company,
+230,37.2552227,-107.0803194,Pagosa Brewing Company,
+231,38.0242832,-107.6711697,Ourayle House Brewery (Mr. Grumpy Pants),
+232,38.0229401,-107.6711242,Ouray Brewery,2010-01-01
+233,39.7604819,-104.9824159,Our Mutual Friend Brewing Company,
+234,40.1389968,-105.1227417,Oskar Blues Tasty Weasel Taproom (Main Brewery),2008-01-01
+235,40.224487,-105.267701,Oskar Blues Grill &#038; Brew,
+236,39.8008448,-105.0589824,Odyssey Beerwerks,
+237,40.5894674,-105.0631819,Odell Brewing Company,
+238,39.9983252,-105.0878535,Odd13 Brewing,
+239,40.593415,-105.066874,New Belgium Brewing Company,1991-01-01
+240,38.8666517,-104.7178298,Nano 108 Brewing Company,
+241,39.7580659,-105.2242402,Mountain Toad Brewing,
+242,40.0191506,-105.2752915,Mountain Sun Pub &#038; Brewery,
+243,38.5349421,-105.9935908,Moonlight Pizza &#038; Brewpub,
+244,39.7555757,-105.216916,MillerCoors Brewing Company,
+245,37.348312,-108.5845731,Main Street Brewery &#038; Restaurant,
+246,40.4837578,-106.8313355,Mahogany Ridge Brewery and Grill,
+247,40.395351,-105.0773372,Loveland Aleworks,2012-07-04
+248,39.5624485,-104.8929576,Lone Tree Brewing Company,
+249,40.1584072,-105.1153811,Left Hand Brewing Company,
+250,39.858327,-105.0639607,Kokopelli Beer Company,
+251,39.055173,-108.557323,Kannah Creek: Edgewater Brewery,
+252,39.0853392,-108.5519054,Kannah Creek Brewing Company,
+253,39.75226,-104.9913841,Jagged Mountain Craft Brewery,
+254,40.0237869,-105.2377962,J Wells Brewery,
+255,37.3484639,-108.57029,J. Fargo&#8217;s Family Dining &#038; Micro Brewery,
+256,39.7036071,-105.1367851,Ironworks Brewery &#038; Pub,1989-01-01
+257,40.0518743,-105.0486053,The Industrial Revolution Brewing Company,
+258,38.4827516,-107.8713666,Horsefly Brewing Company,
+259,39.7583233,-105.0446394,Hogshead Brewery,
+260,40.4806871,-104.9356128,High Hops Brewery,
+261,39.5491319,-105.0338446,Grist Brewing Company,
+262,40.3967058,-105.0469349,Grimm Brothers Brewhouse Taproom,
+263,38.8900401,-104.8179924,Great Storm Brewing,2012-03-01
+264,39.753793,-104.9884662,Great Divide Brewing Company,
+265,39.9760839,-105.1284966,Gravity Brewing,
+266,39.6443509,-106.5963401,Gore Range Brewery,
+267,39.9321113,-105.1314024,Gordon Biersch Brewery Restaurant &#8211; Broomfield,
+268,39.7546856,-105.2236543,Golden City Brewery,
+269,39.5475675,-107.3231833,Glenwood Canyon Brewing Company,
+270,40.5831986,-105.0421247,Funkwerks,
+271,39.9856334,-105.0949029,Front Range Brewing Company,
+272,39.9840025,-104.8218488,Floodstage Ale Works,
+273,40.0150396,-105.245603,FATE Brewing Company,
+274,40.3713462,-105.5260778,Estes Park Brewery,
+275,40.586352,-105.0758657,Equinox Brewing Company,
+276,39.7633152,-104.9814457,Epic Brewing Company,
+277,39.5269964,-104.7700573,Elk Mountain Brewing Company,
+278,38.5181955,-106.0654695,Elevation Beer Company,2012-05-19
+279,38.8697626,-106.9870635,The Eldo Brewery &#038; Taproom,
+280,38.840558,-106.1326438,Eddyline Brewery and Taproom,
+281,40.1117501,-104.9454008,Echo Brewing Company,
+282,37.2976817,-107.8719184,Durango Brewing Company,
+283,39.7566207,-104.7730148,Dry Dock Brewing Company North,
+284,39.6525988,-104.8122239,Dry Dock Brewing Company South,
+285,39.8001394,-105.5126092,Dostal Alley Brewpub &#038; Casino,
+286,37.473538,-108.504895,Dolores River Brewery,
+287,39.6275709,-106.0603159,Dillon DAM Brewery,
+288,39.7703563,-105.0033014,Diebolt Brewing Company,
+289,39.7553521,-104.9969296,Denver Chophouse &#038; Brewery,
+290,39.758265,-105.007315,Denver Beer Company Taproom,
+291,39.7761052,-105.0436746,De Steeg Brewing,
+292,39.5940378,-104.8063467,Dad &#038; Dude&#8217;s Breweria,
+293,39.9605672,-105.1202418,Crystal Springs Brewing Company,
+294,40.3945768,-105.0740693,Crow Hop Brewing Company,
+295,39.7686109,-104.9797577,Crooked Stave Artisan Beer Project,
+296,39.6487987,-106.5886636,Crazy Mountain Brewing Company,
+297,40.3891111,-104.7859574,Crabtree Brewing Company,2006-01-01
+298,39.6924489,-104.8904852,Copper Kettle Brewing Company,
+299,39.1591604,-108.7314895,Copper Club Brewing Company,
+300,40.5873521,-105.0756597,CooperSmith&#8217;s Pub &#038; Brewing Company,
+301,39.7696601,-105.0741775,Colorado Plus Brew Pub,2013-05-13
+302,38.8400167,-104.8597997,Colorado Mountain Brewery at the Roundhouse,
+303,38.9934479,-104.8117366,Colorado Mountain Brewery,
+304,38.152289,-107.757814,Colorado Boy Pub &#038; Brewery,
+305,40.304878,-105.0789811,City Star Brewing,
+306,39.9149225,-105.0007608,CB &#038; Potts Restaurant &#038; Brewery Westminster,
+307,39.5626892,-104.9884281,CB &#038; Potts Restaurant &#038; Brewery Highlands Ranch,
+308,39.928094,-105.1338347,CB &#038; Potts Restaurant &#038; Brewery Flatirons,
+309,39.5986265,-104.8947694,CB &#038; Potts Restaurant &#038; Brewery Englewood,
+310,39.6979509,-105.0821709,CAUTION: Brewing Company,
+311,37.2748003,-107.8798459,Carver Brewing Company,1988-01-01
+312,39.4007166,-107.2130891,Carbondale Beer Works,
+313,39.7687093,-105.2348933,Cannonball Creek Brewing Company,
+314,39.7030876,-104.932443,Bull &#038; Bush Pub &#038; Brewery,
+315,40.4078821,-105.1381201,Buckhorn Brewers LLC,
+316,40.0141249,-105.22964,BRU Handbuilt Ales &#038; Eats,
+317,40.4215258,-104.7572125,Broken Plow Brewery,2013-12-31
+318,38.8110074,-104.8274182,Bristol Brewing Company,
+319,39.7758135,-105.0819544,Brewery Rickoli,
+320,37.2706098,-107.882328,BREW Pub &#038; Kitchen,
+321,39.6541217,-104.9876827,The Brew on Broadway,
+322,39.476175,-106.0438516,Breckenridge Brewery &#038; Pub,
+323,40.0265719,-105.2480565,Boulder Beer Company (The Pub On Wilderness),1979-01-01
+324,40.0998676,-105.1683954,Bootstrap Brewing Company,
+325,39.655396,-106.828632,Bonfire Brewing,
+326,39.755459,-104.9929699,Blue Moon Brewing Co. at the Sandlot,
+327,39.7239414,-104.9982898,Black Sky Brewery,
+328,39.7698213,-104.972933,Black Shirt Brewing Company,2012-10-01
+329,40.5661965,-105.0786153,Black Bottle Brewery,
+330,40.4079683,-105.1144824,Big Beaver Brewing Company,
+331,38.9941465,-105.0519486,BierWerks Brewery,
+332,39.7565096,-105.2199515,Barrels &#038; Bottles Brewery,
+333,39.5766574,-106.0929363,Backcountry Brewery,
+334,40.617477,-105.0051165,Anheuser-Busch,
+335,39.641373,-106.831032,7 Hermits Brewing Company,
+336,40.0624921,-105.204974,Avery Brewing Company,
+337,37.810249,-107.664514,Avalanche Brewing Company,
+338,39.1903225,-106.8203009,Aspen Brewing Company,
+339,40.0586722,-105.2059693,Asher Brewing Company,
+340,39.8988225,-104.9633891,Beer By Design,
